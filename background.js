@@ -4,7 +4,7 @@
 
 // Called when the user clicks on the browser action.
 chrome.browserAction.onClicked.addListener(function(tab) {
-  var sound = chrome.extension.getURL("/applause.wav");
+  var sound = chrome.extension.getURL("/bravoh.wav");
   var audio = new Audio(sound);
   audio.currentTime = 0;
   audio.play();
