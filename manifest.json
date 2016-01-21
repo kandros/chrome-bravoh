@@ -1,7 +1,7 @@
 {
   "name": "Bravoh",
   "description": "Because you never know when you are going to need a 'bravoh'",
-  "version": "69.1",
+  "version": "69.2",
   "permissions": [
     "activeTab"
   ],
