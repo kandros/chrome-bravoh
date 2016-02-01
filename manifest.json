@@ -9,6 +9,15 @@
     "scripts": ["background.js"],
     "persistent": false
   },
+  "commands": {
+    "soraLella": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+0"
+      },
+      "description": "Soralella Sound",
+      "global": true
+    }
+  },
   "browser_action": {
     "default_title": "bravoh"
   },
